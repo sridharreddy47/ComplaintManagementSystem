@@ -5,3 +5,5 @@ target/
 .DS_Store
 .idea/
 .vscode/
+backend/src/main/resources/application.properties
+backend/.env.save
